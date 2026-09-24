@@ -1,0 +1,7 @@
+version 0.1.0
+
+import? _ZN13QTextDocument7setHtmlERK7QString
+override _ZN13QTextDocument7setHtmlERK7QString
+
+import? _ZN17QPdfEnginePrivate12drawTextItemERK7QPointFRK12QTextItemInt
+override _ZN17QPdfEnginePrivate12drawTextItemERK7QPointFRK12QTextItemInt
